@@ -19,7 +19,7 @@ INCREMENT = 2.0
 COMPUTATION_DISTANCE = 0.001
 ASYMPTOTE = 2.0
 
-formula = "sin(x)"
+formula = "sin(x)*tan(x)"
 view_size = 8.0
 
 
